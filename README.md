@@ -2,6 +2,7 @@
 
 
   A RULE ENGINE WITH AST built   using Node.js and React 
+![diagram-export-10-23-2024-7_51_08-PM](https://github.com/user-attachments/assets/2adccddd-7f45-4221-9f1d-a85b23d950db)
 
 
 ## Features
